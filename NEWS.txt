@@ -6,7 +6,7 @@
 News
 ====
 
-0.1a1
+1.0a1
 -----
 
 * Initial version using the bottle web server and pywin32
