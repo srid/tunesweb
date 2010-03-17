@@ -33,6 +33,12 @@ def control_pause():
     redirect('/')
     
     
+@route('/control/vol/:value')
+def control_vol(value):
+    get_itunes().SoundVolume = value
+    redirect('/')
+    
+    
 def get_itunes():
     iTunes = wc.gencache.EnsureDispatch('iTunes.Application')
     return iTunes

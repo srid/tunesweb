@@ -6,6 +6,11 @@
 News
 ====
 
+dev
+---
+
+* #1: Support for controlling iTunes volume
+
 1.0a1
 -----
 
