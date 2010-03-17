@@ -9,10 +9,14 @@ News
 1.0b1
 -----
 
+*Release date: 17-Mar-2010*
+
 * #1: Support for controlling iTunes volume
 
 1.0a1
 -----
+
+*Release date: 16-Mar-2010*
 
 * Initial version using the bottle web server and pywin32
 
